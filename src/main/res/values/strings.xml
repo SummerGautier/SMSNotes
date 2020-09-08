@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSNotes</string>
+    <string name="hint">Here\'s a hint for you.</string>
+</resources>
